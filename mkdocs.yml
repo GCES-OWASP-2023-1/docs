@@ -1,3 +1,12 @@
 site_name: GCES OWASP 2023-1
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Sprints:
+    - Sprint 1:
+      - André Alves: sprints/sprint1/andrealves.md
+    - Sprint 2:
+      - André Alves: sprints/sprint2/andrealves.md
+    - Sprint 3:
+      - André Alves: sprints/sprint3/andrealves.md
