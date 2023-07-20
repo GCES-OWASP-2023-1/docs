@@ -3,10 +3,10 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Sprints:
-    - Sprint 1:
-      - André Alves: sprints/sprint1/andrealves.md
-    - Sprint 2:
-      - André Alves: sprints/sprint2/andrealves.md
-    - Sprint 3:
-      - André Alves: sprints/sprint3/andrealves.md
+  - Andé Alves:
+    - Sprint 1: andre/sprint1.md
+    - Sprint 2: andre/sprint2.md
+    - Sprint 3: andre/sprint3.md
+    - Sprint 4: andre/sprint4.md
+    - Sprint 5: andre/sprint5.md
+    - Sprint 6: andre/sprint6.md
