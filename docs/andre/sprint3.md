@@ -1,6 +1,6 @@
 # Projeto: Defect Dojo
 
-# Contribuição 1
+## Contribuição 1
 
 ### Pull Request: [#8157 Fix container name in DOCKER.md](https://github.com/DefectDojo/django-DefectDojo/pull/8157)
 
@@ -12,7 +12,7 @@
 </figure>
 
 
-# Contribuição 2
+## Contribuição 2
 ### Issue: [#8127 Filters using numbers as strings](https://github.com/DefectDojo/django-DefectDojo/issues/8127)
 
 ### Pull Request: [#8234 Fix: use numerical sort for findings column](https://github.com/DefectDojo/django-DefectDojo/pull/8234)
