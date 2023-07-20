@@ -65,10 +65,10 @@
 
 <figure markdown>
 ![Coraza: PR 93](../../assets/coraza-5.png)
-<figcaption>Imagem 9: .</figcaption>
+<figcaption>Imagem 9: Feedback do mantenedor, nova proposta e meu pedido de uma direção.</figcaption>
 </figure>
 
 <figure markdown>
 ![Coraza: PR 93](../../assets/coraza-6.png)
-<figcaption>Imagem 9: .</figcaption>
+<figcaption>Imagem 9: O mantenedor me deu uma direção de onde eu poderia solucionar o erro.</figcaption>
 </figure>
