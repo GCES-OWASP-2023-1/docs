@@ -14,4 +14,4 @@
 
 ## Extra
 
-Comecei a estudar um novo projeto dentro da organização OWASP chamado [Coraza](https://coraza.io/), um WAF (Web Application Firewall) construído em Go com o objetivo de se tornar o substituto do Mod Security (um outro WAF que estará deixando de ser mantido).
+Comecei a estudar um novo projeto dentro da organização OWASP chamado [Coraza](https://coraza.io/), um WAF (Web Application Firewall) construído em Go com o objetivo de se tornar o substituto do Mod Security (um outro WAF que deixará de ser mantido).
