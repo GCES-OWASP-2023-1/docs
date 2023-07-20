@@ -11,3 +11,5 @@ Um jogo repleto de exemplos da vida real de como não armazenar segredos em seu 
 [feat: #11 - Add an advanced game in C #29](https://github.com/OWASP/wrongsecrets-binaries/pull/29)
 
 Adicionar um jogo de engenharia reversa, em que foi implementado a encriptação AES em linguagem C.
+
+**Total de commits: 7**

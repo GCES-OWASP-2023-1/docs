@@ -16,3 +16,5 @@ Adicionar teste unitário para a função sort_dictionary.
 [feat: #597 Add unit testing for select_maximum_cpu_core function](https://github.com/OWASP/Nettacker/pull/679)
 
 Adicionar teste unitário para a função select_maximum_cpu_core.
+
+**Total de commits: 2**
