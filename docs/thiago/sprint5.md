@@ -10,7 +10,7 @@
 
 ## O que foi desenvolvido para essa issue?
 
-Realizei correções solicitadas pelos mantenedores do projeto na PR que adiciona a funcionalidade de 'get examples' para a classe de XBackendServerInformationLeakScanRule, após as correções solicitdas a PR foi aceita e o merge foi aceito. Após o merge dessa PR, continue nesta mesma issue e inciei o desenvolvimento da funcionalidade de 'get examples' semelhante a que foi desenvolvida anteriormente, mas agora para a classe de XBackendServerInformationLeakScanRule.
+Realizei correções solicitadas pelos mantenedores do projeto na PR que adiciona a funcionalidade de 'get examples' para a classe de XBackendServerInformationLeakScanRule, após as correções solicitdas a PR foi aceita e o merge foi aceito. Após o merge dessa PR, continue nesta mesma issue e inciei o desenvolvimento da funcionalidade de 'get examples' semelhante a que foi desenvolvida anteriormente, mas agora para a classe de Cache Control Scan Rule.
 
 [Pull request mergeada](https://github.com/zaproxy/zap-extensions/pull/4677)
 <br/>
