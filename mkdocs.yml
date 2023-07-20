@@ -1,6 +1,9 @@
 site_name: GCES OWASP 2023-1
 theme:
   name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
 nav:
   - Home: index.md
   - André Alves:
