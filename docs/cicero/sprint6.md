@@ -1,0 +1,3 @@
+## Projeto: ? 
+
+Para essa Sprint decidi não desenvolver mais um get example e ir atrás de outras issues diversas em algum outro projeto, como no threat dragon, que é um projeto em typescript, tecnologia que tenho bastante afinidade. Porém acabei não encontrando uma issue que eu tivesse tempo suficiente para resolver concomitante ao fim do semestre lotado, e também optei por não desenvolver mais um get examples pois seria muito mais o mesmo, para essa última sprint então me reservei somente para o trabalho individual.

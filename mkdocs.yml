@@ -3,10 +3,17 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Andé Alves:
+  - André Alves:
     - Sprint 1: andre/sprint1.md
     - Sprint 2: andre/sprint2.md
     - Sprint 3: andre/sprint3.md
     - Sprint 4: andre/sprint4.md
     - Sprint 5: andre/sprint5.md
     - Sprint 6: andre/sprint6.md
+  - Cícero Fernandes:
+    - Sprint 1: cicero/sprint1.md
+    - Sprint 2: cicero/sprint2.md
+    - Sprint 3: cicero/sprint3.md
+    - Sprint 4: cicero/sprint4.md
+    - Sprint 5: cicero/sprint5.md
+    - Sprint 6: cicero/sprint6.md
