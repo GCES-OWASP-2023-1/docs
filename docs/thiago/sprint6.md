@@ -10,6 +10,6 @@
 
 ## O que foi desenvolvido para essa issue?
 
-Realizei a correção solicitada pelo mantenedor em relação a PR #4706, que diz respeito a forma que eu editei o arquivo de 'change log', após a correção do arquivo de change log o merge foi efetuado.
+Realizei a correção solicitada pelo mantenedor em relação a PR #4706, que diz respeito a forma que eu editei o arquivo de 'change log', após a correção do arquivo de change log o merge foi aceito.
 
 [Pull request mergeada](https://github.com/zaproxy/zap-extensions/pull/4706)

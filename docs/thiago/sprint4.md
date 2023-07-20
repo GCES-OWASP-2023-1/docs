@@ -11,7 +11,7 @@
 
 ## O que foi desenvolvido para essa issue?
 
-Realizei correções solicitadas pelos mantenedores do projeto na PR que adiciona a funcionalidade de 'get examples' para a classe de XAspNetVersionScanRule, após as correções solicitdas a PR foi aceita e o Merge foi efetuado. Após o merge dessa PR, continue nesta mesma issue e inciei o desenvolvimento da funcionalidade de 'get examples' semelhante a que foi desenvolvida anteriormente, mas agora para a classe de XBackendServerInformationLeakScanRule.
+Realizei correções solicitadas pelos mantenedores do projeto na PR que adiciona a funcionalidade de 'get examples' para a classe de XAspNetVersionScanRule, após as correções solicitdas a PR foi aceita e o Merge foi efetuado. Após o aceite do merge dessa PR, continue nesta mesma issue e inciei o desenvolvimento da funcionalidade de 'get examples' semelhante a que foi desenvolvida anteriormente, mas agora para a classe de XBackendServerInformationLeakScanRule.
 
 [Pull request mergeada](https://github.com/zaproxy/zap-extensions/pull/4623)
 <br/>
