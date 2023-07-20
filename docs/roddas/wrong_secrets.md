@@ -12,4 +12,7 @@ Um jogo repleto de exemplos da vida real de como não armazenar segredos em seu 
 
 Adicionar um jogo de engenharia reversa, em que foi implementado a encriptação AES em linguagem C.
 
+![screen](../../assets/s.png)
+
+
 **Total de commits: 7**
