@@ -2,11 +2,10 @@
 
 ## Integrantes
 
-| Nome | Matrícula | GitHub |
-| --------- | ----- | ------- |
-| André Alves | 190102390 |[André Alves](https://github.com/andremralves) |
-| Cícero Fernandes |  |[Cícero Fernandes](https://github.com/ciceroff) |
-| Guilherme Rogelin Vial |  |[Guilherme Rogelin Vial ](https://github.com/GRVial) |
-| Rodolfo Cabral Neves | 180011472 |[Rodolfo Neves](https://github.com/roddas) |
-| Thiago Siqueira Gomes | 190055294 |[Thiago Siqueira Gomes](https://github.com/thgomes) |
-
+| Nome | Matrícula | Issues Trabalhadas |Issues Fechadas | Número de Commits |Projetos |
+| --------- | ----- | ------- |--------- | ----- | ------- |
+| [André Alves](https://github.com/andremralves) | 190102390 | | | | |
+| [Cícero Fernandes](https://github.com/ciceroff)  | | | | | |
+| [Guilherme Rogelin Vial ](https://github.com/GRVial) |  | || | |
+| [Rodolfo Neves](https://github.com/roddas) | 180011472 | 3 | 2 | 9 | [Wrong Secrets](https://github.com/OWASP/wrongsecrets) e [Nettacker](https://github.com/OWASP/Nettacker) |
+| [Thiago Siqueira Gomes](https://github.com/thgomes) | 190055294 | || | |
