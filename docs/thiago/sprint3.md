@@ -28,4 +28,4 @@ A aplicação de autenticação desenvolvida juntamente com o Cicero, funcionou,
 
 Na classe XAspNetVersionScanRule, criei o método de 'create alert', passei todo o código de geração de erro desta classe para dentro dele. Utilizei este código para gerar os erros dentro da funcionalidade, e fora da funcionalidade adicionei uma função de 'get examples' para também utilizar o método 'create alert' e gerar um erro equivalente ao existente na funcionalidade de XAspNetVersionScanRule para fins de documentação. Abri a PR para esta task, mas foram solicitadas algumas correções.
 
-[Pull request aberta](https://github.com/zaproxy/zap-extensions/pull/4623)
+[Pull request aberta](https://github.com/zaproxy/zap-extensions/pull/4625)
